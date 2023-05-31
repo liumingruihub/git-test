@@ -108,13 +108,32 @@ CMOS
 但是，对于高端的镜头，变焦时会考虑到聚焦面的补偿效果，所以，它的内部就需要分别负责变焦和对焦的两组镜片同时移动才行，如下所示：
 
 
-
-
-
 焦距越大越怎么样
 
 为什么广角镜头的焦距一般比较小
 
 
 
+参考资料：
+
+成像原理
+https://www.zhihu.com/question/59797646/answer/2898607208?utm_id=0
+https://zhuanlan.zhihu.com/p/384035531
+
+对焦与变焦
+https://zhuanlan.zhihu.com/p/268521844
+https://www.zhihu.com/question/391261428?utm_id=0
+
+景深
+https://www.zhihu.com/question/22430557
+https://www.zhihu.com/question/36400945?from=profile_question_card&utm_id=0
+https://zhuanlan.zhihu.com/p/47638682?utm_id=0
+https://zhidao.baidu.com/question/405467866.html
+https://www.zhihu.com/question/22430557/answer/2425631867?utm_id=0
+https://www.zhihu.com/question/35784312/answer/64630253
+https://zhidao.baidu.com/question/1806377051819388707.html
+
+焦距
+https://zhuanlan.zhihu.com/p/144401650
+https://www.zhihu.com/tardis/bd/art/99637413?source_id=1001
 
